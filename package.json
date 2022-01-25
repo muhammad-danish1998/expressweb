@@ -1,0 +1,15 @@
+{
+  "name": "exprweb",
+  "version": "1.0.0",
+  "description": "it is first expressjs website ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "muhammad danish",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "hbs": "^4.2.0"
+  }
+}
